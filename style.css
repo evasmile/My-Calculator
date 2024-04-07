@@ -32,7 +32,7 @@ button{
 
 .displayScreen{
    
-    font-size: 30px;
+    font-size: large;
     width: 100%;
     text-align: right;
     margin: 0;
@@ -40,7 +40,7 @@ button{
 }
 
 .operatorDisplay{
-    font-size: 40px;
+    font-size: medium;
     margin: 0;
     text-align: center;
     justify-items: center;

@@ -84,9 +84,6 @@ $("button").on("click", function (e) {
   }
 });
 
-function getDate() {
-  const d = new Date();
-  return d;
-}
 
-$("h3").text(getDate);
+
+
